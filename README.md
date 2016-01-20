@@ -1,8 +1,6 @@
 # Go Gopher model
 > A 3D model of the Go Gopher mascot. We ❤ Go.
 
-
-
 ## Why?
 
 The conversation went something like this:
@@ -11,7 +9,7 @@ The conversation went something like this:
 >
 > David (Animator): Here you go.
 >
-> Walter (Developer): Whoa, that's trick. Why the sweet 3D animation?
+> Walter (Developer): Whoa that's trick. Why the sweet 3D animation?
 >
 > David (Animator): Because I can.
 
@@ -25,6 +23,6 @@ Which lead to a render we could use in a slidedeck:
 
 Which then results in animated jibbily jelly go gophers uniting on Vine:
 
-[![Jibbily jelly go gophers unite!](http://i.imgur.com/asymDsG.gifv)](https://vine.co/v/ieumw3M2add)
+[![Jibbily jelly go gophers unite!](http://i.imgur.com/asymDsG.gif)](https://vine.co/v/ieumw3M2add)
 
 Which then finally results in this CC0 repo of all the Go Gopher goodness. Enjoy!
