@@ -26,3 +26,7 @@ Which then results in animated jibbily jelly go gophers uniting on Vine:
 [![Jibbily jelly go gophers unite!](http://i.imgur.com/asymDsG.gif)](https://vine.co/v/ieumw3M2add)
 
 Which then finally results in this CC0 repo of all the Go Gopher goodness. Enjoy!
+
+Print all the things!
+![czrqbrmw0aazbx3](https://user-images.githubusercontent.com/643503/28179069-b1b8a33c-67b5-11e7-9e13-dc32f24883aa.jpg)
+
