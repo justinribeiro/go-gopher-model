@@ -75,6 +75,6 @@ More colors:
 
 (names are not specified for these colors but added here for description)
 
-![](images/go_brand_colors.png)
+<img alt="go brand colors" src="images/go_brand_colors.png" width="300"/>
 
 _Excerpt from [go brand guide](https://storage.googleapis.com/golang-assets/Go-brand-book-v1.9.5.pdf)_
