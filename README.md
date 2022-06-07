@@ -58,5 +58,7 @@ Which then results in animated jibbily jelly go gophers uniting on Vine:
 
 [![Jibbily jelly go gophers unite!](http://i.imgur.com/asymDsG.gif)](https://vine.co/v/ieumw3M2add)
 
-Which then finally results in this CC0 repo of all the Go Gopher goodness. Enjoy!
+Which then finally results in this repo of all the Go Gopher goodness. Enjoy!
+
+[Creative Commons 0 ("public domain") <br><img src="documentation/images/creative-commons-0.png" width="20%" height="20%" />](https://creativecommons.org/publicdomain/zero/1.0/) 
 
