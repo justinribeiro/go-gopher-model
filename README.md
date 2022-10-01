@@ -29,14 +29,23 @@ Colorized files (`3d-object/colorized`)
  * `go_gopher_body.stl` 3D printable file for the gopher body. 
  * `go_gopher_eyes.stl` 3D printable file for the gopher eyeballs.
 
-## Colors
+## Go-Gopher Colors
 
 There seem to be a lot of freedom choosing colors for the Go Gopher.
 But there are [color suggestions](documentation/colors.md) if you are looking for a classic original Go Gopher style.
 
 ## Examples
 
-### Maya file (`3d-object/original/go_gopher.mb`)
+### Colorized obj-file
+
+Object file: `3d-object/colorized/go_gopher_color.obj`  
+Material file: `3d-object/colorized/go_gopher_color.mtl`
+
+![Go Gopher](documentation/images/go_gopher_colorized_obj-file.png)
+
+### Maya file
+
+Maya file: `3d-object/original/go_gopher.mb`
 
 [![Go Gopher](http://i.imgur.com/b8xYN39.png)](https://twitter.com/RobotSuperCzar/status/689321594796130305)
 
@@ -45,24 +54,6 @@ But there are [color suggestions](documentation/colors.md) if you are looking fo
 ### 3D printable (`3d-printable/go_gopher_xx.stl`)
 
 ![czrqbrmw0aazbx3](https://user-images.githubusercontent.com/643503/28179069-b1b8a33c-67b5-11e7-9e13-dc32f24883aa.jpg)
-
-## How come the 3D Go Gopher was created? 
-
-The conversation went something like this:
-
-> Walter (Developer): Go uses a Gopher as a mascot. We just want to highlight the language in a project.
->
-> David (Animator): Here you go.
->
-> Walter (Developer): Whoa that's trick. Why the sweet 3D animation?
->
-> David (Animator): Because I can.
-
-Which then results in animated jibbily jelly go gophers uniting on Vine:
-
-[![Jibbily jelly go gophers unite!](http://i.imgur.com/asymDsG.gif)](https://vine.co/v/ieumw3M2add)
-
-Which then finally results in this repo of all the Go Gopher goodness. Enjoy!
 
 [Creative Commons 0 ("public domain") <br><img alt="CC0" src="documentation/images/creative-commons-0.png" width="20%" height="20%" />](https://creativecommons.org/publicdomain/zero/1.0/) 
 
